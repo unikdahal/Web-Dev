@@ -1,0 +1,9 @@
+h1{
+    color: yellow;
+
+}
+
+.red-border{
+    background-color: cyan;
+    border: 5px solid red;
+}

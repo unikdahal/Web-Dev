@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+
+}
+
+.container{
+    width:80%;
+    margin-inline: auto;
+}
+
+
+.kitty{
+    width: 200px;
+    float: right;
+    margin: 20px;
+}
+
+.kitty2{
+    width: 200px;
+    float: left;
+    margin: 20px;
+}

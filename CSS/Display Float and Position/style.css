@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.red-border{
+    border: solid 2px red;
+}
+
+.header-text{
+    background-color: antiquewhite;
+
+}
+
+p{
+    margin: 40px;
+    display: inline-block;
+}
+
+img{
+    width: 250px;
+    display: none;
+}
+
+
+a{
+    display: inline-block;
+    width: 200px;
+}
